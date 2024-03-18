@@ -48,6 +48,7 @@ public:
   // Move constructor
   LinkedList(LinkedList &&other);
 
+  // Destructor
   ~LinkedList();
 
   /* Iterators */
